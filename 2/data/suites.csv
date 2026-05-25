@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1315","Go to verywellhealth, click on a link and verify a component on the page","chromium","Mon May 25 18:58:00 UTC 2026","passed","Mon May 25 18:58:01 UTC 2026","","example.spec.ts","",""
+"","8659","Go to verywellhealth, click on a link and verify a component on the page","webkit","Mon May 25 18:58:07 UTC 2026","passed","Mon May 25 18:58:16 UTC 2026","","example.spec.ts","",""
+"","3343","Go to verywellhealth, click on a link and verify a component on the page","firefox","Mon May 25 18:58:02 UTC 2026","passed","Mon May 25 18:58:05 UTC 2026","","example.spec.ts","",""
